@@ -8,6 +8,10 @@
 
 **Thanks 💙**
 
+**Telegram group: [FLOCK4H.CAVE](https://t.me/flock4hcave)**
+
+**Discord server: [Discord](https://discord.gg/thREUECv2a)**
+
 # Overview
 
 In this project, [helius.dev](https://www.helius.dev) and [quicknode.com](https://quicknode.com) are used.
