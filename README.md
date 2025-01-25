@@ -2,6 +2,12 @@
 
 **Raydium DeX Sniper Bot** that catches CLMM, CPMM, Standard AMM, and Pump.fun: Raydium Migration liquidity pool creations, listens for balance changes on their respective pool accounts to calculate real-time price, and checks `Dexscreener` for active boosts.
 
+**If this comes useful and you feel like supporting here is my SOL wallet address:**
+
+`3oFDwxVtZEpSGeNgdWRiJtNiArv4k9FiMsMz3yjudgeS`
+
+**Thanks 💙**
+
 # Overview
 
 In this project, [helius.dev](https://www.helius.dev) and [quicknode.com](https://quicknode.com) are used.
